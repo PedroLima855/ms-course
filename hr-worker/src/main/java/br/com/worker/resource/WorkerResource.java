@@ -1,4 +1,4 @@
-package br.com.worker;
+package br.com.worker.resource;
 
 import java.util.List;
 import java.util.Optional;
